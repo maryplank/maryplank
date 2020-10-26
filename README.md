@@ -25,5 +25,5 @@ Before that, I worked a few years in advertising and graduated in 2017 in advert
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-![Mariana's github stats](https://github-readme-stats.vercel.app/api?username=maryplank&theme=cobalt&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryplank&hide=TeX&layout=compact)
+![Mariana's github stats](https://github-readme-stats.vercel.app/api?username=maryplank&theme=onedark&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryplank)
