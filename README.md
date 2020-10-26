@@ -1,7 +1,10 @@
 ### Hi there, I'm Mari 👋
 
 I'm Mariana Ribeiro (a.k.a. Mari, a.k.a. maryplank). Welcome to my github page!
-I'm a full-stack web developer, working at [PRAVALER](https://www.pravaler.com.br/) since 2020 and graduated as a front-end web developer in the 3rd generation of [Laboratoria's](https://www.laboratoria.la/en) bootcamp in São Paulo, Brazil. Before that, I worked a few years in advertising and graduated in 2017 in advertising and publicity also in São Paulo :grimacing:	
+
+I'm a full-stack web developer, working at [PRAVALER](https://www.pravaler.com.br/) since 2020 and graduated as a front-end web developer in the 3rd generation of [Laboratoria's](https://www.laboratoria.la/en) bootcamp in São Paulo, Brazil.
+
+Before that, I worked a few years in advertising and graduated in 2017 in advertising and publicity also in São Paulo :grimacing:	
 
 ## You can talk to me in:
 
