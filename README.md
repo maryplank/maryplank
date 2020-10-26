@@ -14,7 +14,7 @@ I'm a full-stack web developer, working at [PRAVALER](https://www.pravaler.com.b
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Elixir](https://img.shields.io/badge/-Elixir-381454?style=flat-square&logo=elixir)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python 3-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python%203-black?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
