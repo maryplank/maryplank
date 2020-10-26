@@ -1,4 +1,4 @@
-### Hi there, I'm Mari 👋
+## Hi there, I'm Mari 👋
 
 I'm Mariana Ribeiro (a.k.a. Mari, a.k.a. maryplank). Welcome to my github page!
 
@@ -24,6 +24,7 @@ Before that, I worked a few years in advertising and graduated in 2017 in advert
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+## My stats
 
 ![Mariana's github stats](https://github-readme-stats.vercel.app/api?username=maryplank&theme=onedark&show_icons=true) 
 
